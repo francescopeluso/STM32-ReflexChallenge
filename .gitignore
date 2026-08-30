@@ -1,0 +1,17 @@
+# Firmware build artifacts
+build/
+.dep/
+
+# Eclipse local settings
+.metadata/
+
+# macOS
+.DS_Store
+
+# Node / Next.js dashboard
+dashboard/node_modules/
+dashboard/.next/
+dashboard/out/
+
+# Logs
+*.log
